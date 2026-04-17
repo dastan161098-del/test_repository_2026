@@ -26,7 +26,7 @@ def draw_ui():
 
     artist, track = player.get_track_info()
 
-    # 🎵 Track
+    #
     track_text = font.render(
         f"Track: {track}",
         True,

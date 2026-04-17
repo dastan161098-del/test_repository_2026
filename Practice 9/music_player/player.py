@@ -3,7 +3,7 @@ import os
 
 
 class MusicPlayer:
-    def __init__(self, music_folder):  # 🔥 FIX ОСЫНДА
+    def __init__(self, music_folder): 
         self.music_folder = music_folder
         self.playlist = self.load_music()
         self.index = 0
