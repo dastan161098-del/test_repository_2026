@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Gulsimay",
+        "email": "guli@gmail.com",
+        "birthday": "2010-09-10",
+        "group": "Family",
+        "phone": "870665489",
+        "type": "home"
+    },
+    {
+        "name": "Mum",
+        "email": "klena@gmail.com",
+        "birthday": "1972-01-15",
+        "group": "Family",
+        "phone": "87472301972",
+        "type": "mobile"
+    },
+    {
+        "name": "Tolganai",
+        "email": "tosha@gmail.com",
+        "birthday": "2008-05-18",
+        "group": "Bestie",
+        "phone": "87478965874",
+        "type": "mobile"
+    },
+    {
+        "name": "Meruert",
+        "email": "meru@gmail.com",
+        "birthday": "2008-02-26",
+        "group": "Bestie",
+        "phone": "87078902154",
+        "type": "mobile"
+    },
+    {
+        "name": "Arai",
+        "email": "array@gmail.com",
+        "birthday": "2008-09-13",
+        "group": "Bestie",
+        "phone": "87088506884",
+        "type": "mobile"
+    }
+]
